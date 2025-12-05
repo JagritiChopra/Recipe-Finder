@@ -50,18 +50,22 @@ A full-stack mobile application built using **React Native (Expo)** and **Node.j
 
 ### Clone the Repository
 ```bash 
-git clone <your-repo-url>
+git clone https://github.com/JagritiChopra/Recipe-Finder
+```
 
-### Frontend setup 
+### Frontend setup
+```bash 
 cd recipe-finder
 npm install
 npx expo start
+```
 
 ### Backend Setup
+```bash 
 cd backend
 npm install
 npm start
-
+```
 
 
 
